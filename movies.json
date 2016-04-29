@@ -1,0 +1,56 @@
+{
+  "movies": [{
+    "title" : "Star Wars: Episodio I - La Amenaza Fantasma",
+    "episode_number" : "1",
+    "main_characters" : ["Qui-Gon Jinn", "Obi-Wan Kenobi", "Anakin Skywalker", "Padmé Amidala", "Jar Jar Binks", "Darth Maul"],
+    "description" : "La República Galáctica está sumida en el caos. Los impuestos de las rutas comerciales a los sistemas estelares exteriores están en disputa. Esperando resolver el asunto con un bloqueo de poderosas naves de guerra, la codiciosa Federación de Comercio ha detenido todos los envíos al pequeño planeta de Naboo. Mientras el Congreso de la República debate interminablemente esta alarmante cadena de acontecimientos, el Canciller Supremo ha enviado en secreto a dos Caballeros Jedi, guardianes de la paz y la justicia en la galaxia, para resolver el conflicto....",
+    "poster" : "star_wars_episode_1_poster.png",
+    "hero_image" : "star_wars_episode_1_hero.jpg"
+  },
+
+  {
+    "title" : "Star Wars: Episodio II - El Ataque de los Clones",
+    "episode_number" : "2",
+    "main_characters" : ["Obi-Wan Kenobi", "Anakin Skywalker", "Count Dooku", "Padmé Amidala", "Mace Windu", "Yoda", "Jango Fett", "Supreme Chancellor Palpatine"],
+    "description" : "Hay inquietud en el Senado Galáctico. Varios miles de sistemas solares han declarado sus intenciones de abandonar la República. El movimiento separatista, bajo el liderazgo del misterioso Conde Dooku, ha hecho difícil que el número limitado de Caballeros Jedi mantengan la paz y el orden en la galaxia. La Senadora Amidala, la ex reina de Naboo, va a regresar al Senado Galáctico para votar sobre la cuestión crítica de formar un EJÉRCITO DE LA REPÚBLICA para ayudar a los abrumados Jedi…",
+    "poster" : "star_wars_episode_2_poster.png",
+    "hero_image" : "star_wars_episode_2_hero.jpg"
+  },
+
+  {
+    "title" : "Star Wars: Episodio III - La Venganza de los Sith",
+    "episode_number" : "3",
+    "main_characters" : ["Obi-Wan Kenobi", "Anakin Skywalker", "Count Dooku", "Padmé Amidala", "Mace Windu", "Yoda", "C-3PO", "Supreme Chancellor Palpatine"],
+    "description" : "¡Guerra! La República se desmorona bajo los ataques del despiadado Lord Sith, el Conde Dooku. Hay héroes en ambos bandos. El mal está por doquier. En una contundente jugada, el diabólico líder droide, el General Grievous, ha irrumpido en la capital de la República y ha secuestrado al Canciller Palpatine, líder del Senado Galáctico. Mientras el ejército droide separatista trata de huir de la capital sitiada con su valioso rehén, dos Caballeros Jedi lideran una misión desesperada para rescatar al Canciller cautivo....",
+    "poster" : "star_wars_episode_3_poster.png",
+    "hero_image" : "star_wars_episode_3_hero.jpg"
+  },
+
+  {
+    "title" : "Star Wars: Episodio IV - Una Nueva Esperanza",
+    "episode_number" : "4",
+    "main_characters" : ["Luke Skywalker", "Han Solo", "Princess Leia Organa", "Ben Kenobi", "Darth Vader", "C-3P0", "R2-D2", "Chewbacca"],
+    "description" : "Nos encontramos en un periodo de guerra civil. Las naves espaciales rebeldes, atacando desde una base oculta, han logrado su primera victoria contra el malvado Imperio Galáctico. Durante la batalla, los espías rebeldes han conseguido apoderarse de los planos secretos del arma total y definitiva del Imperio, la ESTRELLA DE LA MUERTE, una estación espacial acorazada, llevando en sí potencia suficiente para destruir a un planeta entero. Perseguida por los siniestros agentes del Imperio, la Princesa Leia vuela hacia su patria, a bordo de su nave espacial, llevando consigo los planos robados, que pueden salvar a su pueblo y devolver la libertad a la galaxia....",
+    "poster" : "star_wars_episode_4_poster.png",
+    "hero_image" : "star_wars_episode_4_hero.jpg"
+  },
+
+  {
+    "title" : "Star Wars: Episodio V - El Imperio Contraataca",
+    "episode_number" : "5",
+    "main_characters" : ["Luke Skywalker", "Han Solo", "Princess Leia Organa", "Darth Vader", "C-3P0", "R2-D2", "Chewbacca", "Lando Calrissian", "Boba Fett"],
+    "description" : "Son tiempos adversos para la rebelión. Aunque la Estrella de la Muerte ha sido destruida, las tropas imperiales han hecho salir a las fuerzas rebeldes de sus bases ocultas y las han persiguen a través de la galaxia. Tras escapar de la terrible Flota Imperial, un grupo de guerreros de la libertad, encabezados por Luke Skywalker, ha establecido una nueva base secreta en el remoto mundo helado de Hoth. El malvado Lord Darth Vader, obsesionado por encontrar al joven skywalker, ha eviado miles de sondas espaciales hacía las infinitas distancias del espacio....",
+    "poster" : "star_wars_episode_5_poster.png",
+    "hero_image" : "star_wars_episode_5_hero.jpg"
+  },
+
+  {
+    "title" : "Star Wars: Episodio VI - El Regreso del Jedi",
+    "episode_number" : "6",
+    "main_characters" : ["Luke Skywalker", "Han Solo", "Princess Leia Organa", "Darth Vader", "C-3P0", "Chewbacca", "The Emperor", "Boba Fett"],
+    "description" : "Luke Skywalker ha regresado a Tatooine, su planeta de origen, en un intento de rescatar a su amigo Han Solo de las garras del vil Jabba. Luke no sabe que el IMPERIO GALÁCTICO ha iniciado secretamente la construcción de una nueva estación espacial blindada, incluso más poderosa que la primera y temida Estrella de la Muerte. Una vez terminada, esta arma extrema augurará una muerte segura para el pequeño grupo de rebeldes que lucha por restaurar la libertad en la galaxia…",
+    "poster" : "star_wars_episode_6_poster.png",
+    "hero_image" : "star_wars_episode_6_hero.jpg"
+  }]
+
+}
